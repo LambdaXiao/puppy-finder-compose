@@ -70,4 +70,3 @@ fun DogDetails(dog: Dog, onAdopt: (Dog) -> Unit = {}) {
         }
     }
 }
-
