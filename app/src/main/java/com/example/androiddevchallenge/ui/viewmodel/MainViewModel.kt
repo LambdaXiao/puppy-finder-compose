@@ -19,8 +19,8 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
 import androidx.lifecycle.ViewModel
-import com.example.androiddevchallenge.R
 import com.example.androiddevchallenge.model.Dog
+import com.example.androiddevchallenge.R
 
 class MainViewModel : ViewModel() {
     val dogs by mutableStateOf(
